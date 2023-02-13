@@ -1,0 +1,21 @@
+
+
+.blue {
+    color: #0973ba;
+}
+.image{
+   display: flex;
+   justify-content:space-around;
+}
+.pitt{
+    height: 200px;
+    width: 150px;
+}
+
+.btn{
+    border:1px solid black;
+    padding: 10px;
+    /* margin-left: 500px; */
+    text-align: center;
+}
+
